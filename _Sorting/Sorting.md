@@ -1,0 +1,23 @@
+Bubble Sort
+Selection Sort
+Insertion Sort
+Merge Sort
+Quick Sort
+Heap Sort
+Shell Sort
+Radix Sort
+Counting Sort
+Bucket Sort
+Comb Sort
+Tim Sort
+Cocktail Shaker Sort
+Pancake Sort
+Gnome Sort
+Tree Sort
+Stooge Sort
+Bitonic Sort
+Bogo Sort
+Pigeonhole Sort
+Cycle Sort
+Flash Sort
+Strand Sort
