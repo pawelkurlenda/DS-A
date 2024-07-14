@@ -38,7 +38,7 @@ Strand Sort
 | [Bucket](Bucket/Bucket.md)           | O(n + k)         | O(n + k)         | O(n^2)            | 1,000             | 10,000            | 100,000          | 1,000,000          |
 | [Comb](Comb/Comb.md)             | O(n log n)       | O(n^2 / 2^p)     | O(n^2)            | 10,000            | 132,877           | 1,660,964        | 19,931,568         |
 | [Tim](Tim/Tim.md)              | O(n)             | O(n log n)       | O(n log n)        | 1,000             | 132,877           | 1,660,964        | 19,931,568         |
-| [Cocktail Shaker](Cocktail Shaker/Cocktail Shaker.md)  | O(n)             | O(n^2)           | O(n^2)            | 1,000             | 100,000,000       | 10,000,000,000   | 1,000,000,000,000  |
+| [Cocktail Shaker](Cocktail%20Shaker/Cocktail%20Shaker.md)  | O(n)             | O(n^2)           | O(n^2)            | 1,000             | 100,000,000       | 10,000,000,000   | 1,000,000,000,000  |
 | [Pancake](Pancake/Pancake.md)          | O(n)             | O(n^2)           | O(n^2)            | 1,000             | 100,000,000       | 10,000,000,000   | 1,000,000,000,000  |
 | [Gnome](Gnome/Gnome.md)            | O(n)             | O(n^2)           | O(n^2)            | 1,000             | 100,000,000       | 10,000,000,000   | 1,000,000,000,000  |
 | [Tree](Tree/Tree.md)             | O(n log n)       | O(n log n)       | O(n^2)            | 10,000            | 132,877           | 1,660,964        | 19,931,568         |
